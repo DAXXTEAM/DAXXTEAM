@@ -1,5 +1,4 @@
- ㅤ ㅤ ㅤㅤ
-[![GIF](https://github.com/DAXXTEAM/DAXXTEAM/blob/main/DAXXTEAM.gif)](https://github.com/DAXXTEAM)
+ ㅤ ㅤ ㅤㅤ[![GIF](https://github.com/DAXXTEAM/DAXXTEAM/blob/main/DAXXTEAM.gif)](https://github.com/DAXXTEAM)
    [![𝐓𝐄𝐀𝐌.𝐃𝐀𝐗𝐗](https://github-stats-alpha.vercel.app/api?username=DAXXTEAM "DAXXTEAM")](https://github-stats-alpha.vercel.app/api?username=DAXXTEAM "DAXXTEAM")
                                                           
   
