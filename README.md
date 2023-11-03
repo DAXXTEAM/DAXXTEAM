@@ -25,6 +25,16 @@ You can click the Preview link to take a look at your changes.
 
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DAXXTEAM&show_icons=true&locale=en&layout=compact" alt="DAXXTEAM" /></p>
 
+# Contribution Graph:
+
+<p align="center">
+  <a href="https://github.com/DAXXTEAM">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DAXXTEAM#version3"/>
+  </a>
+</p>
+<a href="https://github.com/DAXXTEAM"><img alt="Abir's Activity Graph" src="https://ghactivity.mrayush.me/graph?username=DAXXTEAM&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
 
 # Github Streak ☠︎︎
 
