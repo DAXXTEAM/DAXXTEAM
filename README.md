@@ -1,91 +1,167 @@
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12&text=DAXX%20TEAM&fontSize=90&fontColor=fff&animation=twinkling&stroke=00ff00&strokeWidth=3" />
+
 <p align="center">
   <a href="https://github.com/DAXXTEAM">
-    <img src="https://github.com/DAXXTEAM/DAXXTEAM/blob/main/DAXXTEAM.gif" alt="DAXXTEAM" />
+    <img src="https://github.com/DAXXTEAM/DAXXTEAM/blob/main/DAXXTEAM.gif" width="400" alt="DAXXTEAM" />
   </a>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%E2%94%8F%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%8D%9F+DAXX+TEAM+%E2%8D%9F%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%93;%F0%9F%92%BB+Developer+%7C+%F0%9F%A4%96+Bot+Creator;%F0%9F%94%90+Security+Researcher" alt="Typing SVG" />
-</h1>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=70&lines=%F0%9F%91%8B+Hey!+I'm+DAXX;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%A4%96+Telegram+Bot+Expert;%F0%9F%94%90+Security+Researcher;%F0%9F%9A%80+Open+Source+Lover" />
+</h2>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/DAXXTEAM/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=DAXXTEAM&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/DAXXTEAM?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/DAXXTEAM?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
 </p>
 
 ---
 
-## ┏━━━━━━━⍟ About Me ⍟━━━━━━━┓
+<img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-```python
-class DAXXTEAM:
-    def __init__(self):
-        self.name = "DAXX TEAM"
-        self.role = "Full Stack Developer & Bot Creator"
-        self.languages = ["Python", "JavaScript", "Bash", "C"]
-        self.frameworks = ["Pyrogram", "Flask", "FastAPI", "Node.js"]
-        self.databases = ["MongoDB", "Redis", "PostgreSQL"]
-        self.tools = ["Docker", "Heroku", "Linux", "Git"]
-        
-    def current_projects(self):
-        return [
-            "VClub - Premium CC Checker Bot",
-            "DAXX Music Bot",
-            "DAXX Userbot",
-            "Telegram Automation Tools"
-        ]
+## 🧑‍💻 About Me
+
+```javascript
+const DAXX = {
+    name: "DAXX TEAM",
+    location: "India 🇮🇳",
+    role: "Full Stack Developer",
+    
+    skills: {
+        languages: ["Python", "JavaScript", "TypeScript", 
+                   "Bash", "C", "HTML/CSS"],
+        frameworks: ["Pyrogram", "Telethon", "Flask", 
+                    "FastAPI", "Express.js"],
+        databases: ["MongoDB", "Redis", "PostgreSQL", 
+                   "MySQL", "SQLite"],
+        devOps: ["Docker", "Heroku", "Linux", "Nginx", 
+                "GitHub Actions"],
+        tools: ["VS Code", "Git", "Postman", "Arduino"]
+    },
+    
+    currentFocus: "Building Telegram Bots & Tools",
+    funFact: "I turn ☕ into <code/>"
+};
 ```
+
+<br clear="both">
 
 ---
 
-## ┏━━━━━━━⍟ Featured Projects ⍟━━━━━━━┓
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌟 VClub Bot
-Premium Telegram CC Checker with 40+ response types
-- Stripe & Shopify Gates
-- VBV/3DS Checker
-- BIN Lookup & Tools
+<h3 align="center">🌟 VClub Bot</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pyrogram-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
 
-[![VClub](https://img.shields.io/badge/View_Repo-VClub-blue?style=for-the-badge&logo=github)](https://github.com/DAXXTEAM/VClub)
+```
+┏━━━━━━━⍟
+┃ 💳 Premium CC Checker
+┗━━━━━━━━━━━⊛
+```
+
+- ✅ Stripe & Shopify Gates
+- ✅ VBV/3DS Checker  
+- ✅ 40+ Response Types
+- ✅ BIN Lookup & Gen
+
+<p align="center">
+  <a href="https://github.com/DAXXTEAM/VClub">
+    <img src="https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎵 DAXX Music
-High Quality Music Bot for Telegram
-- No Lag, Fast Speed
-- Multiple Audio Sources
-- Group Management
+<h3 align="center">🎵 DAXX Music</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+</p>
 
-[![Music](https://img.shields.io/badge/View_Repo-Music-purple?style=for-the-badge&logo=github)](https://github.com/DAXXTEAM/DAXXMUSIC)
+```
+┏━━━━━━━⍟
+┃ 🎶 Music Streaming Bot
+┗━━━━━━━━━━━⊛
+```
+
+- ✅ High Quality Audio
+- ✅ No Lag Streaming
+- ✅ Playlist Support
+- ✅ Group Management
+
+<p align="center">
+  <a href="https://github.com/DAXXTEAM/DAXXMUSIC">
+    <img src="https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 DAXX Userbot
-Powerful Telegram Userbot
-- Fast & Reliable
-- 100+ Modules
-- Easy Deployment
+<h3 align="center">🤖 DAXX Userbot</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Telethon-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Async-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Plugins-red?style=flat-square" />
+</p>
 
-[![Userbot](https://img.shields.io/badge/View_Repo-Userbot-green?style=for-the-badge&logo=github)](https://github.com/DAXXTEAM/DAXXUSERBOT)
+```
+┏━━━━━━━⍟
+┃ ⚡ Powerful Userbot
+┗━━━━━━━━━━━⊛
+```
+
+- ✅ 100+ Modules
+- ✅ Plugin System
+- ✅ Fast & Reliable
+- ✅ Easy Deploy
+
+<p align="center">
+  <a href="https://github.com/DAXXTEAM/DAXXUSERBOT">
+    <img src="https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💬 DAXX ChatBot
-AI-Powered Chat Bot
-- Fast Responses
-- Multi-Language
-- Group Friendly
+<h3 align="center">💬 DAXX ChatBot</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Powered-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/NLP-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Fast-orange?style=flat-square" />
+</p>
 
-[![ChatBot](https://img.shields.io/badge/View_Repo-ChatBot-orange?style=for-the-badge&logo=github)](https://github.com/DAXXTEAM/DAXXCHATBOT)
+```
+┏━━━━━━━⍟
+┃ 🧠 AI Chat Bot
+┗━━━━━━━━━━━⊛
+```
+
+- ✅ AI Responses
+- ✅ Multi-Language
+- ✅ Group Friendly
+- ✅ Smart Learning
+
+<p align="center">
+  <a href="https://github.com/DAXXTEAM/DAXXCHATBOT">
+    <img src="https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 </td>
 </tr>
@@ -93,52 +169,81 @@ AI-Powered Chat Bot
 
 ---
 
-## ┏━━━━━━━⍟ Tech Stack ⍟━━━━━━━┓
+## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://github.com/DAXXTEAM">
-    <img src="https://skillicons.dev/icons?i=python,js,bash,c,html,css,mongodb,redis,docker,linux,git,github,heroku,vscode,fastapi,flask&perline=8" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,bash,c,html,css,mongodb,redis,postgres,mysql,docker,linux,git,github,heroku,vscode,flask,fastapi,nginx&perline=10" />
 </p>
 
 ---
 
-## ┏━━━━━━━⍟ GitHub Stats ⍟━━━━━━━┓
+## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DAXXTEAM&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DAXXTEAM&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DAXXTEAM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DAXXTEAM&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAXXTEAM&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-## ┏━━━━━━━⍟ Trophies ⍟━━━━━━━┓
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DAXXTEAM&theme=radical&no-frame=true&row=1&column=7" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAXXTEAM&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
 
-## ┏━━━━━━━⍟ Activity Graph ⍟━━━━━━━┓
+## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DAXXTEAM&theme=redical&hide_border=true&area=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DAXXTEAM&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" />
 </p>
 
 ---
 
-## ┏━━━━━━━⍟ Connect With Me ⍟━━━━━━━┓
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DAXXTEAM&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+</p>
+
+---
+
+## 🐍 Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://t.me/cyberdaxx">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://youtube.com/cyberdaxx">
+  <a href="https://youtube.com/@cyberdaxx">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://instagram.com/DAXXTEAM">
@@ -147,14 +252,21 @@ AI-Powered Chat Bot
   <a href="mailto:thebotolbaba@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/DAXXTEAM">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=fff&animation=twinkling" />
+
 <p align="center">
-  <b>┏━━━━━━━⍟ Made with ❤️ by DAXX TEAM ⍟━━━━━━━┓</b>
+  <b>⭐ Star my repos if you find them useful! ⭐</b>
 </p>
