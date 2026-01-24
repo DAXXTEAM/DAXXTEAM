@@ -57,7 +57,7 @@ I am a Python backend developer who builds secure and scalable backend systems. 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DAXXTEAM&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=DAXXTEAM&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
