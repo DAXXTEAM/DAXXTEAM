@@ -48,39 +48,57 @@
 
 ## 🏆 Featured Projects
 
-<div align="center">
+### 🚀 [VPS Automation](https://github.com/DAXXTEAM/VPS-Automation)
+> VPS deployment automation with Docker support  
+⭐ 10 stars | 🍴 47 forks | 🐳 Docker | 🚀 DevOps
 
-### 🚀 VPS Automation
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DAXXTEAM&repo=VPS-Automation&theme=tokyonight)](https://github.com/DAXXTEAM/VPS-Automation)
-
-VPS deployment automation with Docker support
-⭐ 10 stars | 🍴 47 forks
-
----
-
-### 🤖 JEEVES AI
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DAXXTEAM&repo=jeeves-ai&theme=tokyonight)](https://github.com/DAXXTEAM/jeeves-ai)
-
-Personal PC Assistant like JARVIS - Voice commands, automation, AI
-💬 Voice Control | 🤖 ChatGPT Integration
+**Tech:** Docker, Bash, Python, Nginx  
+**Features:** One-click VPS setup, SSL automation, firewall configuration
 
 ---
 
-### ⚡ DevDash
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DAXXTEAM&repo=devdash&theme=tokyonight)](https://github.com/DAXXTEAM/devdash)
+### 🤖 [JEEVES AI](https://github.com/DAXXTEAM/jeeves-ai)
+> Personal PC Assistant like JARVIS - Voice commands, automation, AI  
+💬 Voice Control | 🤖 ChatGPT Integration | 📧 Email Management
 
-Beautiful Developer Dashboard CLI for Git & System monitoring
-📊 Real-time Analytics | 🎨 Rich Terminal UI
+**Tech:** Python, OpenAI, Speech Recognition  
+**Features:** Voice commands, smart automation, AI conversations
 
 ---
 
-### 💬 WhatsApp AI Bot
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DAXXTEAM&repo=whatsapp-ai-bot&theme=tokyonight)](https://github.com/DAXXTEAM/whatsapp-ai-bot)
+### ⚡ [DevDash](https://github.com/DAXXTEAM/devdash)
+> Beautiful Developer Dashboard CLI for Git & System monitoring  
+📊 Real-time Analytics | 🎨 Rich Terminal UI | 💻 System Monitor
 
-AI-powered WhatsApp Bot with OpenAI, weather, jokes
-🌤️ Weather | 😂 Entertainment | 🔍 Search
+**Tech:** Python, Rich, Git API  
+**Features:** Git stats, CPU/RAM monitoring, project management
 
-</div>
+---
+
+### 💬 [WhatsApp AI Bot](https://github.com/DAXXTEAM/whatsapp-ai-bot)
+> AI-powered WhatsApp Bot with OpenAI, weather, jokes  
+🌤️ Weather | 😂 Entertainment | 🔍 Web Search | 🤖 AI Chat
+
+**Tech:** Node.js, OpenAI, WhatsApp Web.js  
+**Features:** AI chat, utilities, group support
+
+---
+
+### 🎵 [Music Bot](https://github.com/DAXXTEAM/MUSICBOT)
+> Powerful Telegram music bot for voice chats  
+🎵 Multi-platform | 📋 Queue System | 🎙️ High Quality
+
+**Tech:** Python, Pyrogram, YouTube API  
+**Features:** YouTube/Spotify playback, queue management
+
+---
+
+### 🐙 [GitHub Profile Manager](https://github.com/DAXXTEAM/github-profile-manager)
+> Manage your GitHub profile and repositories through web interface  
+📊 Analytics | 📝 Bulk Operations | 🔍 Search & Filter
+
+**Tech:** Python, Flask, GitHub API  
+**Features:** Profile stats, repo management, bulk updates
 
 ---
 
@@ -88,11 +106,12 @@ AI-powered WhatsApp Bot with OpenAI, weather, jokes
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DAXXTEAM&show_icons=true&theme=tokyonight&hide_border=true)
+<a href="https://github.com/DAXXTEAM">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DAXXTEAM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAXXTEAM&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DAXXTEAM&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DAXXTEAM&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DAXXTEAM&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -100,12 +119,12 @@ AI-powered WhatsApp Bot with OpenAI, weather, jokes
 
 ## 💼 Services I Offer
 
-- 🔧 **Backend Development** - RESTful APIs, Microservices
-- 🤖 **Bot Development** - Telegram, WhatsApp, Discord bots
-- ⚙️ **Automation** - Task automation, web scraping, CI/CD
-- 🔌 **API Integration** - Payment gateways, third-party services
-- 🐳 **DevOps** - Docker, deployment, server management
-- 💾 **Database Design** - MongoDB, PostgreSQL, Redis
+- 🔧 **Backend Development** - RESTful APIs, Microservices, FastAPI/Flask
+- 🤖 **Bot Development** - Telegram, WhatsApp, Discord automation bots
+- ⚙️ **Automation** - Task automation, web scraping, CI/CD pipelines
+- 🔌 **API Integration** - Payment gateways, third-party services, webhooks
+- 🐳 **DevOps** - Docker, deployment, server management, VPS automation
+- 💾 **Database Design** - MongoDB, PostgreSQL, Redis optimization
 
 ---
 
@@ -132,6 +151,7 @@ class Developer:
         self.location = "Agra, India"
         self.languages = ["Python", "JavaScript", "SQL"]
         self.specialization = ["APIs", "Automation", "Bots"]
+        self.availability = "Open to Remote Opportunities"
         
     def say_hi(self):
         print("Thanks for visiting! Let's build something amazing together!")
@@ -155,5 +175,7 @@ me.say_hi()
 ![Profile Views](https://komarev.com/ghpvc/?username=DAXXTEAM&color=blueviolet&style=for-the-badge)
 
 **⭐ Star my repos if you find them useful!**
+
+Made with ❤️ by DAXXTEAM
 
 </div>
